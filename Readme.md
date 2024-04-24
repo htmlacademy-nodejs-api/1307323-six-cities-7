@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Pavel Drow](https://up.htmlacademy.ru/nodejs-api/7/user/1307323).
-* Наставник: `Неизвестно`.
+* Наставник: [Rail Sakhaviev](https://htmlacademy.ru/profile/id1331891).
 
 ---
 
